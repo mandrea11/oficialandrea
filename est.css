@@ -1,0 +1,160 @@
+body
+{
+	background: url(ima.jpeg);
+}
+
+.caja1
+{
+	position: absolute;
+	font-style: oblique;
+	top: 2%;
+	left: 10%;
+	width: 80%;
+	height: 18%;
+	background-color: #F2F5A9;
+}
+.semana12
+{
+
+    position: absolute;
+	display: block;
+	text-decoration: none;
+	top: 200px;
+	background-color: #F7819F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 300px;
+}
+
+.semana12:hover
+{
+
+    position: absolute;
+	display: block;
+	top: 200px;
+	background-color: #FE2E64;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 300px;
+}
+
+.Semana13
+{
+    position: absolute;
+	display: block;
+	top: 200px;
+	background-color: #F7819F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-decoration: none;
+	text-align: center;
+	border-style: dashed;
+	left:550px;
+}
+
+.Semana13:hover
+{
+	 position: absolute;
+	display: block;
+	top: 200px;
+	background-color:#FE2E64;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:550px;
+}
+
+.Semana14
+{
+    position: absolute;
+	display: block;
+	top: 200px;
+	background-color: #F7819F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 250px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:800px;
+}
+
+.Semana14:hover
+{
+	position: absolute;
+	display: block;
+	top: 200px;
+	background-color: #FE2E64;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 285px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:800px;
+}
+
+.Semana15
+{
+    position: absolute;
+	display: block;
+	top: 350px;
+	background-color: #F7819F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 250px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:380px;
+}
+
+.Semana15:hover
+{
+	position: absolute;
+	display: block;
+	top: 350px;
+	background-color: #FE2E64;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 285px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:380px;
+}
+
+.Semana16
+{
+    position: absolute;
+	top: 350px;
+	background-color: #F7819F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 250px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:690px;
+}
+
+.Semana16:hover
+{
+	position: absolute;
+	display: block;
+	top: 350px;
+	background-color: #FE2E64;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 285px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left:690px;
+}
+
+
+
